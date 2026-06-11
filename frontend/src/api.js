@@ -1,5 +1,5 @@
 // ← YAHAN apna backend ka Vercel URL dalo (trailing slash NAHI)
-const API_BASE = 'https://bizzone-secrett.vercel.app';
+const API_BASE = 'https://bizzone-secrett.vercel.app/api';
 
 // Example: const API_BASE = 'https://bizz1-backend.vercel.app/api';
 // Local dev ke liye: const API_BASE = '/api';
